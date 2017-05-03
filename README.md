@@ -1,3 +1,3 @@
-A very basic npm module starter, with babel.  
+A very basic npm module starter, with babel es2015 & eslint with the preset standard.   
 When ready to push run `yarn build` then `npm publish`  
-Or use a travis file and turn tags on  
+Alternatively you could use a travis file, with tags and publish releases through github.  
